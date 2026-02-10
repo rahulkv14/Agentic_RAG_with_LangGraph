@@ -6,9 +6,3 @@ reference data. The system also provides transparent evaluation results to help
 users understand how the final response is selected.
 
 
-
-Maintained and extended by Rahul K V
-
-
-
-Maintained and extended by Rahul K V
